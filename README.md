@@ -15,3 +15,4 @@ En el caso de la calculadora de IMC se insertaron dos EditText para la altura y 
 se utilizaron sentencias condicionales IF para evaluar cada resultado de la fórmula para calcular el IMC que es: (peso / altura^2).
 Por último, se realizaron validaciones para los campos vacíos.
 
+Para abrir el proyecto solo debe descargar el archivo .zip llamado: "Calculadora Android" 👍
